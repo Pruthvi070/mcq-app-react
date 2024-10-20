@@ -1,0 +1,42 @@
+export const reactData = [
+    {
+        question: "What is the primary function of React?",
+        option1: "To manage the state of applications",
+        option2: "To create server-side applications",
+        option3: "To build user interfaces",
+        option4: "To manipulate the DOM directly",
+        ans: 3,
+    },
+    {
+        question: "Which method is called after a component is rendered?",
+        option1: "componentDidMount",
+        option2: "componentWillUnmount",
+        option3: "render",
+        option4: "shouldComponentUpdate",
+        ans: 1,
+    },
+    {
+        question: "What hook would you use to manage state in a functional component?",
+        option1: "useEffect",
+        option2: "useContext",
+        option3: "useState",
+        option4: "useReducer",
+        ans: 3,
+    },
+    {
+        question: "What do you use to pass data from parent to child components?",
+        option1: "Props",
+        option2: "State",
+        option3: "Context",
+        option4: "Refs",
+        ans: 1,
+    },
+    {
+        question: "Which of the following is a lifecycle method?",
+        option1: "useState",
+        option2: "componentDidUpdate",
+        option3: "render",
+        option4: "createElement",
+        ans: 2,
+    },
+]; 
